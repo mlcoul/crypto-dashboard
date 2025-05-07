@@ -32,3 +32,11 @@ A customizable Streamlit web app to track real-time cryptocurrency prices and tr
 ```bash
 git clone https://github.com/mlcoul/crypto-dashboard.git
 cd crypto-dashboard
+
+---
+
+## 👤 Author
+
+**Mohamed Coulibaly**  
+📍 New York, USA  
+🔗 GitHub: [mlcoul](https://github.com/mlcoul
