@@ -1,3 +1,7 @@
+# crypto_app.py
+# Author: Mohamed Coulibaly
+# Description: Real-time crypto dashboard with local LLM summaries
+
 import streamlit as st
 import requests
 import datetime
